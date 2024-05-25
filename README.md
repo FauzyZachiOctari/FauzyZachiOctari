@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <h2><strong>📱 Lets Connect!</strong></h2>
 <p align="left">
     <a href="#">
-        <img src="img/icons8-instagram-500.png" alt="instagram" style="vertical-align:top; margin:6px 4px">
+        <img src="img/icons8-instagram.svg" alt="instagram" style="vertical-align:top; margin:100px 4px;">
     </a>  
 </p>
 
