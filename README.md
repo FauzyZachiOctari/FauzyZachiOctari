@@ -52,8 +52,12 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=DAA520&labelColor=F0F0F0&color=DAA520)
 ![ASP.NET Core Badge](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=512BD4&labelColor=F0F0F0&color=512BD4)
 ![Csharp Badge](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=C%20Sharp&logoColor=239120&labelColor=F0F0F0&color=239120&label=C%23)
-![SQL Server Badge](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927&labelColor=F0F0F0&color=CC2927)
+
+<!--- INI UNTUK Database --->
+<p><strong>Database</strong></p>
+
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=F0F0F0&color=4479A1)
+![SQL Server Badge](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927&labelColor=F0F0F0&color=CC2927)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=F0F0F0&color=336791)
 
 <!-- <p align="left">
