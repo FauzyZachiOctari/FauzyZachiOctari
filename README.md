@@ -1,4 +1,4 @@
-
+-
 <!--- 👋 Hi, I’m @FauzyZachiOctari
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -19,7 +19,9 @@ You can click the Preview link to take a look at your changes.
   <br>
   👇
   <br>
-  <a href="https://fauzyzachioctari.github.io/Fauzyzachi.github.io/index.html">「 Personal CV 」</a>
+  <a href="[https://alsiam.com](https://fauzyzachioctari.github.io/Fauzyzachi.github.io/index.html)" target="blank">
+    <img src="https://img.shields.io/badge/Personal Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="FauzyzachiEmail" />
+   </a>
 </p>
 
 <!--- INI UNTUK KONEKSI --->
@@ -59,6 +61,14 @@ You can click the Preview link to take a look at your changes.
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=F0F0F0&color=4479A1)
 ![SQL Server Badge](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927&labelColor=F0F0F0&color=CC2927)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=F0F0F0&color=336791)
+
+#### Top Repositories
+
+<a> 
+    <a href="https://github.com/FauzyZachiOctari"><img alt="FauzyZachiOctari's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=FauzyZachiOctari&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/FauzyZachiOctari"><img alt="FauzyZachiOctari's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=FauzyZachiOctari&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 <!-- <p align="left">
     <a href="#">
