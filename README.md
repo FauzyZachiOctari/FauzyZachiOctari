@@ -1,4 +1,4 @@
--
+
 <!--- 👋 Hi, I’m @FauzyZachiOctari
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -37,12 +37,20 @@ You can click the Preview link to take a look at your changes.
 
 <!--- INI UNTUK FRONTEND --->
 <h2><strong>💻 Tech Stack</strong></h2>
+
+<!--- INI UNTUK GAMBAR --->
+
+<a href="https://fauzyzachioctari.github.io/Fauzyzachi.github.io/index.html">
+  <img src="https://github.com/FauzyZachiOctari/FauzyZachiOctari/assets/141359625/5490ac45-9a45-48d6-99bf-669d7bd8bc21" alt="FauzyzachiEmail" width="450px" align="right"/>
+</a>
+
 <p><strong>Front End</strong></p>
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=F0F0F0&color=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=F0F0F0&color=1572B6)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=DAA520&labelColor=F0F0F0&color=DAA520)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=F0F0F0&color=563D7C)
+
 
 <!--- INI UNTUK BackEnd --->
 <p><strong>Back End</strong></p>
