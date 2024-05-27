@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/FauzyZachiOctari/FauzyZachiOctari/assets/141359625/5490ac45-9a45-48d6-99bf-669d7bd8bc21" alt="FauzyzachiEmail" width="450px" align="right"/>
 </a>
 
-<p><strong>Front End</strong></p>
+<p><strong>Frontend</strong></p>
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=F0F0F0&color=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=F0F0F0&color=1572B6)
@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--- INI UNTUK BackEnd --->
-<p><strong>Back End</strong></p>
+<p><strong>Backend</strong></p>
 
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=F0F0F0&color=FF2D20)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=F0F0F0&color=777BB4)
