@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h2><strong>📱 Lets Connect!</strong></h2>
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 <!-- <p align="left">
     <a href="#">
         <img src="img/icons8-instagram.svg" alt="instagram" style="vertical-align:top; margin:100px 4px;">
