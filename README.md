@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="FauzyzachiLinkedin"/>
  </a>
  
- <a href="mailto:fauzizakioktari12@gmail.com">
+ <a href="mailto:sistempakar888@gmail.com">
   <img src="https://img.shields.io/badge/Email-FF2D20?style=for-the-badge&logo=gmail&logoColor=white" alt="FauzyzachiEmail"/>
 </a>
 
