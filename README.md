@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <br>
   👇
   <br>
-  <a href="https://fauzyzachioctari.github.io/Fauzyzachi.github.io/index.html" target="blank">
+  <a href="https://fauzyzachioctari.github.io/Fauzyzachi.github.io/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Personal Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="FauzyzachiEmail" />
    </a>
 </p>
