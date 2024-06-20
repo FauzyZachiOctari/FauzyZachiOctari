@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=F0F0F0&color=1572B6)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=DAA520&labelColor=F0F0F0&color=DAA520)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=F0F0F0&color=563D7C)
+![React Badge](https://img.shields.io/badge/React_JS-1E90FF?style=for-the-badge&logo=react&logoColor=1E90FF&labelColor=F0F0F0&color=1E90FF)
 
 
 <!--- INI UNTUK BackEnd --->
@@ -58,7 +59,6 @@ You can click the Preview link to take a look at your changes.
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=F0F0F0&color=FF2D20)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=F0F0F0&color=777BB4)
 ![CodeIgniter Badge](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=EF4223&labelColor=F0F0F0&color=EF4223)
-![React Badge](https://img.shields.io/badge/React_JS-1E90FF?style=for-the-badge&logo=react&logoColor=1E90FF&labelColor=F0F0F0&color=1E90FF)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=DAA520&labelColor=F0F0F0&color=DAA520)
 ![ASP.NET Core Badge](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=512BD4&labelColor=F0F0F0&color=512BD4)
 ![Csharp Badge](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=C%20Sharp&logoColor=239120&labelColor=F0F0F0&color=239120&label=C%23)
